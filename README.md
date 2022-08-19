@@ -107,6 +107,33 @@ $$ \frac{a}{b}=\sqrt c$$
 
 * 还有好多要学的，还是晚点交任务一吧……
 
+---
+
+> 8.19第三次update
+
+B站
+
+- [ ] Linux
+- [ ] Docker
+- [ ] NoSQL
+- [ ] Vue.js
+- [ ] Python
+- [ ] Serverless
+- [ ] Node.js
+- [ ] 微信小程序
+
+CSDN
+
+- [ ] Linux
+- [ ] Docker
+- [ ] NoSQL
+- [ ] Vue.js
+- [ ] Python
+- [ ] Serverless
+- [ ] Node.js
+- [ ] 微信小程序
+
+
 
 [^出处]:版权声明：本文为CSDN博主「I an」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
 原文链接：https://blog.csdn.net/CY2333333/article/details/113731490
