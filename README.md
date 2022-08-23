@@ -113,25 +113,25 @@ $$ \frac{a}{b}=\sqrt c$$
 
 B站
 
-- [ ] Linux
+- [x] Linux
 - [ ] Docker
 - [ ] NoSQL
 - [ ] Vue.js
 - [ ] Python
 - [ ] Serverless
 - [ ] Node.js
-- [ ] 微信小程序
+- [x] 微信小程序
 
 CSDN
 
-- [ ] Linux
+- [x] Linux
 - [ ] Docker
 - [ ] NoSQL
 - [ ] Vue.js
 - [ ] Python
 - [ ] Serverless
 - [ ] Node.js
-- [ ] 微信小程序
+- [x] 微信小程序
 
 
 
