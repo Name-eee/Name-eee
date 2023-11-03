@@ -1,6 +1,6 @@
 # welcome to my world!
 ---
-> 👋Hi! I'm Name_eee
+> 👋Hi! I'm Name-eee
 > - 🌱 Green hand on FrontEnd
 > - 🌱 undergraduate
 > - 🌱 amateur on Webmake
