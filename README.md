@@ -7,7 +7,7 @@
 > - 🌱 major in Artificial Intelligence but temporarily unable to write programs about artificial intelligence
 > - 🌱 extremely interested in programming
 >   
->   👀Look forward to meet who are also interested in coding
+> 👀Look forward to meet who are also interested in coding
 ---
 ### ✨ My works:
 - [x] ✨ Recruit23
